@@ -1,3 +1,5 @@
 Alpha Centauri
 Arcturus
+Canopus
+Sirius
 Vega
