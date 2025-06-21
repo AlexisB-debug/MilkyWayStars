@@ -1,5 +1,8 @@
 Alpha Centauri
 Arcturus
+Betelgeuse
 Canopus
+Polaris
+Rigel
 Sirius
 Vega
