@@ -2,6 +2,7 @@ Alpha Centauri
 Arcturus
 Betelgeuse
 Canopus
+Pistol Star
 Polaris
 Rigel
 Sirius
